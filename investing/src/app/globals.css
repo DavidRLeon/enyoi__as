@@ -1,0 +1,25 @@
+body{
+  background: #FFFFFF;
+}
+
+.image{
+  position: absolute;
+  top: 130px;
+  left: 35px;
+}
+
+.titulos{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  color: #336EE1;
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.36px;
+}
